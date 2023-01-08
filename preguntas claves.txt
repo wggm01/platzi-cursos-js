@@ -1,0 +1,7 @@
+Para ejecutar javascript se debe utilizar un entorno de ejecucion como:
+-nodejs
+-inspector de html browsers
+-cuando usas event listener no debes colocar parentesis a la funcion que llamaras
+
+documentacion de eventos:
+https://developer.mozilla.org/en-US/docs/Web/Events
